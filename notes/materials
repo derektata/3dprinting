@@ -7,24 +7,24 @@ The nozzle I use is a stock brass 0.4mm, and the stock hotend/heatsink.
 PETG - Overture
 Nozzle: 250
 Bed: 80
+Cooling: 50%
 
 PLA - Sunlu
 Nozzle: 210
 Bed: 60
+Cooling: 100%
 
 
-//////////////////////////////////////////////////////////////////////////////
-// TPU: If under extrusion becomes an issue, disable retraction completely. //
-//////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////////////
+// NOTE for TPU: If under extrusion becomes an issue, disable retraction completely. //
+///////////////////////////////////////////////////////////////////////////////////////
 
 TPU NinjaFlex - NinjaTek
 Nozzle: 240C
 Bed: 50C-65C
 Speed: 30mm/s
-Cooling: On
 
 TPU Armadillo - NinjaTek
 Nozzle: 240C
 Bed: 50C-65C
 Speed: 45mm
-Cooling: On
